@@ -1,4 +1,4 @@
-# SPECTRA
+# SPECTRA AI
 
 A small, base-10 language built around **Spectons** — values that hold
 probability distributions instead of single numbers.
